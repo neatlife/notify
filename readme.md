@@ -1,4 +1,4 @@
-![Notify](https://s3.amazonaws.com/s3.codecourse.com/github/banners/notify.png)
+![Notify](https://cloud.githubusercontent.com/assets/4076198/11322733/a1707e72-9134-11e5-98aa-bf90b8577039.png)
 
 ## Install
 
