@@ -2,6 +2,7 @@
     "name": "suxiaolin/notify",
     "description": "Flexible flash notifications for Yii2",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "苏小林",
@@ -11,6 +12,9 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": ">=2.0.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
     },
     "autoload": {
         "psr-4": {
