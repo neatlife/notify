@@ -1,5 +1,13 @@
 ![Notify](https://cloud.githubusercontent.com/assets/4076198/11322733/a1707e72-9134-11e5-98aa-bf90b8577039.png)
 
+[![Build Status](https://travis-ci.org/su-xiaolin/notify.svg)](https://travis-ci.org/su-xiaolin/notify)
+[![Code Climate](https://codeclimate.com/github/su-xiaolin/notify/badges/gpa.svg)](https://codeclimate.com/github/su-xiaolin/notify)
+[![Issue Count](https://codeclimate.com/github/su-xiaolin/notify/badges/issue_count.svg)](https://codeclimate.com/github/su-xiaolin/notify)
+[![Latest Stable Version](https://poser.pugx.org/su-xiaolin/notify/version)](https://packagist.org/packages/su-xiaolin/notify)
+[![Latest Unstable Version](https://poser.pugx.org/su-xiaolin/notify/v/unstable)](//packagist.org/packages/su-xiaolin/notify)
+[![Total Downloads](https://poser.pugx.org/su-xiaolin/notify/downloads)](https://packagist.org/packages/su-xiaolin/notify)
+[![License](https://poser.pugx.org/su-xiaolin/notify/license)](https://packagist.org/packages/su-xiaolin/notify)
+
 ## Install
 
 Using Composer
