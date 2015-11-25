@@ -24,7 +24,7 @@ Add the components to `config/main.php`
 ]
 ```
 
-> Note, there is a Notifier::instance() function available, so you can vai Notifier::instance() instead of config it in `config/main.php`.
+> Note, there is a Notifier::instance() function available, so you can via Notifier::instance() instead of config it in `config/main.php`.
 
 ## Usage
 
